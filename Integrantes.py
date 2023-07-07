@@ -1,0 +1,5 @@
+print("Nombres de los integrantes de ET")
+integrante1=input("Pedro Charalamby")
+integrante2=input("Kevin Tapia")
+integrante3=input("Alvaro Ormazabal")
+integrante4=input("Camilo Mundaca")
